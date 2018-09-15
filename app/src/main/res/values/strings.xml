@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Media Player</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="up">+</string>
+    <string name="down">-</string>
+    <string name="seek">Seek 10 Sec</string>
+</resources>
